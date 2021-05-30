@@ -1,0 +1,61 @@
+body{
+	background: linear-gradient(black, white);
+	padding-right: 0px;
+}
+
+
+h1{
+	color: black;
+	text-decoration: underline;
+	padding-left: 420px;
+}
+
+#capa{
+	padding-left: 120px;
+}
+
+#principal{
+		width: 1250px;
+
+}
+
+#menu{
+	text-align: right;
+	/*background: #c5c5b2;*/
+	padding-left: 0px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+#texto{
+   color: black;
+   font-size: 16px Arial, Helvetica, sans-serif;
+   text-align: left;
+   
+
+
+}
+
+.centralizar{
+	text-align: center;
+	padding: 30px;
+
+
+}
+
+.legenda_carros{
+	background: white;
+	width: 265px;
+	padding: 5px;
+	float: left;
+	margin: 60px;
+
+}
+
+.saiba_mais{
+	color: black;
+}
+
